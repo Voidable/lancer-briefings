@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "The Drop",
           "status": "start"
         },
       ],
@@ -142,15 +142,15 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "planet": "Cressidium",
+        "year": "5016u",
+        "system": "Colditas-2",
+        "gate": "Cascade-Hood",
+        "ring": "Cascade-Line",
+        "headerTitle": "UNS-CV",
+        "headerSubtitle": "RIO GRAND",
+        "subheaderTitle": "Mechanized Cavalry Unit",
+        "subheaderSubtitle": "Arrow Squad",
       },
       "options":{
         "eventsMarkdownPerMission": true
