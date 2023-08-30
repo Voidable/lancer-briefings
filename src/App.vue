@@ -101,12 +101,36 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Jinzo",
-          "alias": "Shayan Arsenal",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "callsign": "Astro",
+          "alias": "Ezrala",
+          "code": "f2ec7df5-a04b-4109-b920-99ed71d5c338//NDL-C-LUNAR-STELE",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Type - Worst Beat"
+          "mech": "Pristine Silence"
+        },
+        {
+          "callsign": "Dark Star",
+          "alias": "Des",
+          "code": "67857121-f7bc-4184-844a-8a72da907015//NDL-C-STONE-NOVEMBER",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Dantellion"
+        },
+        {
+          "callsign": "Necromancer",
+          "alias": "Vinn Adrians",
+          "code": "82fe4cca-76cc-47a4-89b4-7183904eaf7d//NDL-C-BETA-SUN",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Don't Worry, This Will Only Hurt Briefly"
+        },
+        {
+          "callsign": "Thiccms",
+          "alias": "Robbie",
+          "code": "c765f93d-e473-4a5f-838f-09b3b2599cd4//NDL-C-EARNEST-VERDICT",
+          "corpro": "GMS",
+          "frame": "Chomolungma",
+          "mech": "OneThiccBoi"
         },
       ],
       "header": {
