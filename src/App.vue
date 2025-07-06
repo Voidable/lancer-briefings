@@ -106,7 +106,7 @@ export default {
           "code": "f2ec7df5-a04b-4109-b920-99ed71d5c338//NDL-C-LUNAR-STELE",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Stories Of OurPast Lives"
+          "mech": "Stories Of Our Past Lives"
         },
         {
           "callsign": "Sleeper",
