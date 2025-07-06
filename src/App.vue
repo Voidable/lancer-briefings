@@ -106,7 +106,7 @@ export default {
           "code": "f2ec7df5-a04b-4109-b920-99ed71d5c338//NDL-C-LUNAR-STELE",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Pristine Silence"
+          "mech": "Stories Of OurPast Lives"
         },
         {
           "callsign": "Sleeper",
@@ -114,7 +114,7 @@ export default {
           "code": "67857121-f7bc-4184-844a-8a72da907015//NDL-C-STONE-NOVEMBER",
           "corpro": "GMS",
           "frame": "Chomolungma",
-          "mech": "Dantellion"
+          "mech": "DingDong"
         },
         {
           "callsign": "Sweetcheeks",
@@ -122,7 +122,7 @@ export default {
           "code": "82fe4cca-76cc-47a4-89b4-7183904eaf7d//NDL-C-BETA-SUN",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Don't Worry, This Will Only Hurt Briefly"
+          "mech": "Bulldozer Slate"
         },
         {
           "callsign": "Lion",
@@ -130,7 +130,7 @@ export default {
           "code": "c765f93d-e473-4a5f-838f-09b3b2599cd4//NDL-C-EARNEST-VERDICT",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "OneThiccBoi"
+          "mech": "Knight"
         },
       ],
       "header": {
