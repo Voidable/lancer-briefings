@@ -125,12 +125,12 @@ export default {
           "mech": "Bulldozer Slate"
         },
         {
-          "callsign": "Lion",
-          "alias": "Benton Osiair",
+          "callsign": "Deadfire",
+          "alias": "Alicia Verdance",
           "code": "c765f93d-e473-4a5f-838f-09b3b2599cd4//NDL-C-EARNEST-VERDICT",
           "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Knight"
+          "frame": "Chomolungma",
+          "mech": "LeLain"
         },
       ],
       "header": {
