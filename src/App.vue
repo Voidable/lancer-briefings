@@ -96,7 +96,7 @@ export default {
         {
           "slug": "002",
           "name": "The Drop",
-          "status": "partial-success"
+          "status": "start"
         },
       ],
       "pilots": [
